@@ -1,4 +1,4 @@
-# temps and humidity applications # Devices used in project
+# temps and humidity applications 
 
 # software
 ## Programming lanugages
