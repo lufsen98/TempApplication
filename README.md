@@ -2,7 +2,7 @@
 
 # software
 ## Programming lanugages
-c/c++.
+c/c++.  
 python.
 micropython.
 TBD...
